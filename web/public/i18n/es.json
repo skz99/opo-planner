@@ -3,8 +3,55 @@
     "cancel": "Cancelar",
     "confirm": "Confirmar"
   },
+  "appLayout": {
+    "logoAlt": "opo-planner",
+    "navLabel": "Navegación principal",
+    "logout": "Cerrar sesión"
+  },
   "authLayout": {
     "logoAlt": "opo-planner"
+  },
+  "emptyState": {
+    "message": "Todavía no hay nada por aquí"
+  },
+  "home": {
+    "loading": "Cargando",
+    "error": "No se ha podido cargar la página de inicio",
+    "examDate": "Fecha prevista del examen: {{date}}",
+    "today": {
+      "title": "Hoy",
+      "empty": "No tienes tareas para hoy"
+    },
+    "streak": {
+      "title": "Racha",
+      "day": "día seguido",
+      "days": "días seguidos"
+    },
+    "blocks": {
+      "title": "Bloques",
+      "studied": "Estudiados",
+      "noStudied": "Aún no has marcado ningún bloque",
+      "weak": "Más flojos",
+      "noWeak": "Todavía no hay datos",
+      "correctPercentage": "{{percentage}} % de aciertos"
+    },
+    "trueFalse": {
+      "title": "Verdadero o falso",
+      "true": "Verdadero",
+      "false": "Falso",
+      "correct": "¡Has acertado!",
+      "incorrect": "Has fallado"
+    }
+  },
+  "nav": {
+    "home": "Inicio",
+    "syllabus": "Temario oficial",
+    "syllabusShort": "Temario",
+    "notes": "Apuntes",
+    "exams": "Exámenes",
+    "mockExams": "Simulacros por tema",
+    "mockExamsShort": "Simulacros",
+    "planner": "Planner"
   },
   "login": {
     "title": "Iniciar sesión",
